@@ -2,8 +2,7 @@ const app = new Vue({
     el: "#app",
 
     data: {
-        countDisplay: [],
-        count: null
+        countDisplay: []
     },
 
     created: function () {
